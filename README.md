@@ -1,16 +1,35 @@
-## Hi there 👋
+# hi, xkbruv here! 👋
 
-<!--
-**xkbruv/xkbruv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+building weird shit. most of it won't work. some of it will matter.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ai experiments · onchain stuff · things that probably shouldn't exist
+
+---
+
+## what is this
+
+no agenda. no roadmap. just a place to ship ideas fast and see what survives.
+
+if it's in here, it was interesting enough to build. that's the only filter.
+
+---
+
+## current interests
+
+- agents that do things you didn't fully think through
+- onchain mechanics with actual utility
+- tools built for one person (me) that might be useful to two
+
+---
+
+## how i work here
+
+- prototype first, architecture never
+- if it's not broken it's not done
+- readme written after, not before
+
+---
+
+*everything here is experimental. nothing here is advice.*
