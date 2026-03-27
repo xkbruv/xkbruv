@@ -19,7 +19,6 @@ if it's in here, it was interesting enough to build. that's the only filter.
 ## current interests
 
 - agents that do things you didn't fully think through
-- onchain mechanics with actual utility
 - tools built for one person (me) that might be useful to two
 
 ---
@@ -28,7 +27,6 @@ if it's in here, it was interesting enough to build. that's the only filter.
 
 - prototype first, architecture never
 - if it's not broken it's not done
-- readme written after, not before
 
 ---
 
